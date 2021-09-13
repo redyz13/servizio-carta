@@ -1,2 +1,2 @@
 # ServizioCarta
-Servizio carta di credito
+Servizio Carta di Credito
